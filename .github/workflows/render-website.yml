@@ -31,7 +31,7 @@ jobs:
 
       # Deploy to gh-pages
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: website/_site  # your Quarto site build output directory
           branch: gh-pages  # the GitHub Pages branch
