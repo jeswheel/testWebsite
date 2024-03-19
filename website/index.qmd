@@ -4,10 +4,10 @@ title: "website"
 
 This is a Quarto website.
 
-New update 5. 
+Here I have made a major update, just to check GHA.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+2+2
 ```
